@@ -4,9 +4,8 @@ A collaborative platform for remote study sessions.
 
 ## Repositories
 
-- [Frontend Repository](https://github.com/musabansari-1/service-booking-platform-frontend.git) — User website (React, Next.js, Tailwind CSS)
-- [Backend Repository](https://github.com/musabansari-1/service-booking-platform-backend.git) — API and database (Node.js, Express JS)
-- [Admin Panel](https://github.com/musabansari-1/service-booking-platform-admin-panel.git) — Admin Panel For Service providers (React, Next.js, Tailwind CSS)
+- [Frontend Repository](https://github.com/musabansari-1/Virtual-study-room-frontend)) — React, Tailwind CSS
+- [Backend Repository](https://github.com/musabansari-1/virtual-study-room-backend)) — Python, Fast API
 
 ## Tech Stack
 
